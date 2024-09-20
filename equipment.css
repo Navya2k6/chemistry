@@ -1,0 +1,113 @@
+
+.equi{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 20px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 35px;
+}
+.eqp{
+    background-color: white; 
+    position: absolute; 
+    top: 280px; 
+    width: 550px; 
+    right: 250px; 
+    padding: 30px;
+}
+
+/* @media(max-width:800px)
+{
+    .eqp{
+        background-color: white; 
+        position: absolute; 
+        top: 280px; 
+        width: 550px; 
+        left: 600px;
+        padding: 30px;
+    }
+    .equi{
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 20px;
+        line-height: 20px;
+        text-align: center;
+        margin-top: 35px;
+    }
+} */
+/* @media(max-width:850px)
+{
+    .eqp{
+        background-color: white; 
+        position: absolute; 
+        top: 280px; 
+        width: 550px; 
+        left: 600px;
+        padding: 30px;
+    }
+    .equi{
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 20px;
+        line-height: 20px;
+        text-align: center;
+        margin-top: 35px;
+    }
+} */
+@media(max-width:150px)
+{
+    .eqp{
+        background-color: white; 
+        position: absolute; 
+        top: 280px; 
+        width: 550px; 
+        left: 600px;
+        padding: 30px;
+    }
+    .equi{
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 20px;
+        line-height: 20px;
+        text-align: center;
+        margin-top: 35px;
+    }
+}
+/* @media(max-width:900px)
+{
+    .eqp{
+        background-color: white; 
+        position: absolute; 
+        top: 280px; 
+        width: 550px; 
+        right: 0;
+        padding: 30px;
+    }
+    .equi{
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 20px;
+        line-height: 20px;
+        text-align: center;
+        margin-top: 35px;
+    }
+} */
+@media(max-width:1200px)
+{
+    .eqp{
+        background-color: white; 
+        position: absolute; 
+        top: 280px; 
+        width: 550px; 
+        right: 0;
+        padding: 30px;
+    }
+    .equi{
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 20px;
+        line-height: 20px;
+        text-align: center;
+        margin-top: 35px;
+    }
+}
